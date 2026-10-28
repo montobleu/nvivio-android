@@ -1,0 +1,5 @@
+# JitPack builds the library from this repository's tags (https://jitpack.io/#montobleu/nvivio-android).
+jdk:
+  - openjdk21
+install:
+  - ./gradlew :nvivio:publishReleasePublicationToMavenLocal -Pversion=$VERSION

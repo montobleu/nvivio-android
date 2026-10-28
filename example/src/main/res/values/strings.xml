@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nvivio Example</string>
+    <string name="home">Home</string>
+    <string name="products">Products</string>
+    <string name="settings">Settings</string>
+    <string name="buy">Buy Pro</string>
+    <string name="screen_text">The %1$s screen. Each screen view, the time spent on it and the Buy Pro event go to Nvivio; with debug on, logcat shows every request (tag Nvivio).</string>
+    <string name="bought">Event Purchase, plan pro</string>
+</resources>
